@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi, I'm Richard 👋
 
 ## 🚀 Principal Data Scientist
 
