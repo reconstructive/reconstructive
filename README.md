@@ -3,7 +3,7 @@
 ## 🚀 Principal Data Scientist
 
 📍 **Cape Town**  
-🔗 **LinkedIn:** [](https://linkedin.com/in/richardstevenball)  
+🔗 **LinkedIn:** [richardstevenball](https://linkedin.com/in/richardstevenball)  
 👨‍💻 **GitHub:** [reconstructive](https://github.com/reconstructive)
 
 ### About Me 🌐
