@@ -7,7 +7,7 @@
 👨‍💻 **GitHub:** [reconstructive](https://github.com/reconstructive)
 
 ### About Me 🌐
-Seasoned data scientist specializing in applying machine learning for financial services. 
+Seasoned data scientist specializing in the application of machine learning for solving problems in the financial services industry. 
 
 ### Professional Highlights 🌟
 - **Principal Data Scientist** - Kinetic (2023 - Present)
